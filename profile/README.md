@@ -21,20 +21,20 @@ _Команда 48_
 ## 📂 Репозитории
 
 ### 1. **Документация**
-- [**Сайт документации** (docs-website)](https://github.com/your-org/parktrack-api)
-- [**Swagger** (swagger-api-docs)](https://github.com/your-org/parktrack-api)
+- [**Сайт документации** (docs-website)](https://github.com/ParkTrack-Project/docs-website)
+- [**Swagger** (api-docs-swagger)](https://github.com/ParkTrack-Project/api-docs-swagger)
 
 ### 2. **API сервер и база данных**
-- [**API server** (api-server)](https://github.com/your-org/parktrack-api)
+- [**API server** (api-server)](hhttps://github.com/ParkTrack-Project/api-server)
 
 ### 3. **Детектор автомобилей и анализатор занятости**
-- [**Car detector** (car-detector)](https://github.com/your-org/parktrack-api)
+- [**Car detector** (car-detector)](https://github.com/ParkTrack-Project/car-detector)
 
 ### 4. **Сервис разметки камер и парковочных зон**
-- [**Labeler** (labeler)](https://github.com/your-org/parktrack-api)
+- [**Labeler** (labeler)](https://github.com/ParkTrack-Project/labeler)
 
 ### 5. **Веб-карта свободных парковок**
-- [**Map** (web-map)](https://github.com/your-org/parktrack-api)
+- [**Map** (web-map)](https://github.com/ParkTrack-Project/web-map)
 
 ---
 
