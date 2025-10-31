@@ -25,7 +25,7 @@ _Команда 48_
 - [**Swagger** (api-docs-swagger)](https://github.com/ParkTrack-Project/api-docs-swagger)
 
 ### 2. **API сервер и база данных**
-- [**API server** (api-server)](hhttps://github.com/ParkTrack-Project/api-server)
+- [**API server** (api-server)](https://github.com/ParkTrack-Project/api-server)
 
 ### 3. **Детектор автомобилей и анализатор занятости**
 - [**Car detector** (car-detector)](https://github.com/ParkTrack-Project/car-detector)
