@@ -12,7 +12,7 @@ _Команда 48_
 
 ## 🚀 Ссылки
 
-- **Сайт проекта:** [parktrack.nawinds.dev](https://parktrack.live)
+- **Сайт проекта:** [parktrack.live](https://parktrack.live)
 - **Документация проекта:** [Документация](https://docs.parktrack.live)
 - **Swagger UI (API):** [Swagger](https://swagger.parktrack.live)
 
