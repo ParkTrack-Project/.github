@@ -35,12 +35,8 @@ _Команда 48_
 
 ### 5. **Детектор автомобилей и анализатор занятости**
 - [**Car detector** (car-detector)](https://github.com/ParkTrack-Project/car-detector)
-
-### 6. **Дообучение модели YOLOv12**
-- [**YOLO model training** (yolo_model_training)](https://github.com/ParkTrack-Project/yolo_model_training)
-
-### 5. **Выпрямление изображения с широкоугольных камер**
-- [**Camera image fix** (camera_image_fix)](https://github.com/ParkTrack-Project/camera_image_fix)
+- [**Дообучение модели YOLOv12** (yolo_model_training)](https://github.com/ParkTrack-Project/yolo_model_training)
+- [**Выпрямление изображения с широкоугольных камер** (camera_image_fix)](https://github.com/ParkTrack-Project/camera_image_fix)
 
 ---
 
