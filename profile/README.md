@@ -27,14 +27,20 @@ _Команда 48_
 ### 2. **API сервер и база данных**
 - [**API server** (api-server)](https://github.com/ParkTrack-Project/api-server)
 
-### 3. **Детектор автомобилей и анализатор занятости**
-- [**Car detector** (car-detector)](https://github.com/ParkTrack-Project/car-detector)
-
-### 4. **Сервис разметки камер и парковочных зон**
+### 3. **Сервис разметки камер и парковочных зон**
 - [**Labeler** (labeler)](https://github.com/ParkTrack-Project/labeler)
 
-### 5. **Веб-карта свободных парковок**
+### 4. **Веб-карта свободных парковок**
 - [**Map** (web-map)](https://github.com/ParkTrack-Project/web-map)
+
+### 5. **Детектор автомобилей и анализатор занятости**
+- [**Car detector** (car-detector)](https://github.com/ParkTrack-Project/car-detector)
+
+### 6. **Дообучение модели YOLOv12**
+- [**YOLO model training** (yolo_model_training)](https://github.com/ParkTrack-Project/yolo_model_training)
+
+### 5. **Выпрямление изображения с широкоугольных камер**
+- [**Camera image fix** (camera_image_fix)](https://github.com/ParkTrack-Project/camera_image_fix)
 
 ---
 
