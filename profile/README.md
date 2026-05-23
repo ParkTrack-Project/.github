@@ -1,7 +1,5 @@
 # Проект ParkTrack
 
-_Команда 48_
-
 ---
 
 **ParkTrack** — это система для мониторинга городских парковок с использованием технологий компьютерного зрения для определения автомобилей и анализа занятости парковок в реальном времени.
@@ -13,6 +11,7 @@ _Команда 48_
 ## 🚀 Ссылки
 
 - **Сайт проекта:** [parktrack.live](https://parktrack.live)
+- **Админ панель:** [admin.parktrack.live](https://parktrack.live)
 - **Документация проекта:** [Документация](https://docs.parktrack.live)
 - **Swagger UI (API):** [Swagger](https://swagger.parktrack.live)
 
@@ -26,14 +25,6 @@ _Команда 48_
 
 ---
 
-## 📃 История проекта
-
-Узнайте как велась работа над проектом, заглянув в наш DevLog!
-
-- **[DevLog](https://docs.parktrack.live/docs/devlog)**
-
----
-
 ## 📂 Репозитории
 
 ### 1. **Документация**
@@ -43,8 +34,8 @@ _Команда 48_
 ### 2. **API сервер и база данных**
 - [**API server** (api-server)](https://github.com/ParkTrack-Project/api-server)
 
-### 3. **Сервис разметки камер и парковочных зон**
-- [**Labeler** (labeler)](https://github.com/ParkTrack-Project/labeler)
+### 3. **Админ-панель**
+- [**Admin panel** (admin-panel)](https://github.com/ParkTrack-Project/admin-panel)
 
 ### 4. **Веб-карта свободных парковок**
 - [**Map** (web-map)](https://github.com/ParkTrack-Project/web-map)
@@ -54,15 +45,29 @@ _Команда 48_
 - [**Дообучение модели YOLOv12** (yolo_model_training)](https://github.com/ParkTrack-Project/yolo_model_training)
 - [**Выпрямление изображения с широкоугольных камер** (camera_image_fix)](https://github.com/ParkTrack-Project/camera_image_fix)
 
+### 6. **ML модель предсказания заполненности парковок**
+- [**Occupancy prediction service** (ml-prediction)](https://github.com/ParkTrack-Project/ml-prediction)
+
+### 7. **Мобильное приложение**
+- [**Mobile app** (mobile-app)](https://github.com/ParkTrack-Project/mobile-app)
+
 ---
 
 ## 👥 Команда
 
-### **Номер команды:** 48
+| <img src="nikita.png" width="100" height="100">                                                                                                                                                                                            | <img src="andrey.png" width="100" height="100"> | <img src="egor.png" width="100" height="100">                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------|
+| <p align="center">[Никита Аксенов](https://github.com/nawinds)<br /><a href="https://t.me/nawinds"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="18" height="12" alt="Telegram">nawinds</a> | <p align="center">Андрей Кудлис</p>             | <p align="center">[Егор Столбов](https://github.com/Gogobobo11) |
+| <p align="center">*Tech Director*</p>                                                                                                                                                                                                      | <p align="center">*Поиск партнеров*</p>         | <p align="center">*Backend Engineer*</p>                        | 
 
-| <img src="https://avatars.githubusercontent.com/u/73361785?s=96&v=4" width="100" height="100" style="border-radius:50%;">                                                                                                                  | <img src="https://avatars.githubusercontent.com/u/63653997?s=96&v=4" width="100" height="100" style="border-radius:50%;"> | <img src="https://avatars.githubusercontent.com/u/99559238?s=96&v=4" width="100" height="100" style="border-radius:50%;"> | <img src="https://avatars.githubusercontent.com/u/138257718?s=96&v=4" width="100" height="100" style="border-radius:50%;"> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| <p align="center">[Никита Аксенов](https://github.com/nawinds)<br /><a href="https://t.me/nawinds"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="18" height="12" alt="Telegram">nawinds</a> | <p align="center">[Егор Столбов](https://github.com/Gogobobo11)                                                           | <p align="center">[Дмитрий Бауков](https://github.com/xrenvtomate)                                                        | <p align="center">[Михаил Неганов](https://github.com/666mxvbee)                                                           |
-| <p align="center">*Капитан команды, детектор автомобилей*</p>                                                                                                                                                                              | <p align="center">*API-сервер, база данных*</p>                                                                           | <p align="center">*Frontend, разработка веб-карты парковок*</p>                                                           | <p align="center">*Frontend, разработка сервиса управления камерами и разметки парковочных зон*</p>                        | 
+| <img src="dmitrii.png" width="100" height="100">                   | <img src="kirill.png" width="100" height="100">             | <img src="ruslan.png" width="100" height="100">                 |
+|--------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|
+| <p align="center">[Дмитрий Олифер](https://github.com/Lukramancer) | <p align="center">[Кирилл Сурков](https://github.com/Ru1ka) | <p align="center">[Руслан Беганов](https://github.com/BeganovR) |
+| <p align="center">*DevOps*</p>                                     | <p align="center">*CV Engineer*</p>                         | <p align="center">*ML Forecast Engineer*</p>                    |
+
+| <img src="egor.png" width="100" height="100">                   | <img src="ilya-r.png" width="100" height="100">                | <img src="ilya-k.png" width="100" height="100">               |
+|-----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
+| <p align="center">[Егор Столбов](https://github.com/Gogobobo11) | <p align="center">[Илья Россеев](https://github.com/666mxvbee) | <p align="center">[Илья Киселев](https://github.com/Mentigen) |
+| <p align="center">*Backend Engineer*</p>                        | <p align="center">*Web Engineer*</p>                           | <p align="center">*Mobile Engineer*</p>                       |
 
 ---
