@@ -94,57 +94,82 @@ This presentation was used to pitch **ParkTrack** on **December 25**. It include
 ## Team
 
 <table>
-<tr>
-<td style="width: 168px; text-align: center"><img src="nikita.png" style="width: 100px; height: 100px; object-fit: cover;" alt=""></td>
-<td style="width: 168px; text-align: center"><img src="andrey.png" style="width: 100px; height: 100px; object-fit: cover;" alt=""></td>
-<td style="width: 168px; text-align: center"><img src="egor.png" style="width: 100px; height: 100px; object-fit: cover; object-position: right" alt=""></td>
-</tr>
-<tr>
-<td style="width: 168px; text-align: center"><a href="https://github.com/nawinds">Nikita Aksenov</a><br /><a href="https://t.me/nawinds"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="18" height="12" alt="Telegram">nawinds</a></td>
-<td style="width: 168px; text-align: center">Andrey Kudlis</td>
-<td style="width: 168px; text-align: center"><a href="https://github.com/Gogobobo11">Egor Stolbov</a></td>
-</tr>
-<tr>
-<td style="width: 168px; text-align: center"><i>Engineering Lead</i></td>
-<td style="width: 168px; text-align: center"><i>Partnerships & Growth</i></td>
-<td style="width: 168px; text-align: center"><i>Backend Engineer</i></td>
-</tr>
-</table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="nikita.png" width="100" height="100" alt="Nikita Aksenov" />
+      <br />
+      <a href="https://github.com/nawinds"><b>Nikita Aksenov</b></a>
+      <br />
+      <a href="https://t.me/nawinds">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="14" height="14" alt="Telegram" />
+        nawinds
+      </a>
+      <br />
+      <sub><i>Engineering Lead</i></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="andrey.png" width="100" height="100" alt="Andrey Kudlis" />
+      <br />
+      <b>Andrey Kudlis</b>
+      <br />
+      <sub><i>Partnerships & Growth	</i></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="egor.png" width="100" height="100" alt="Egor Stolbov" />
+      <br />
+      <a href="https://github.com/Gogobobo11"><b>Egor Stolbov</b></a>
+      <br />
+      <sub><i>Backend Engineer</i></sub>
+    </td>
+  </tr>
 
-<table>
-<tr>
-<td style="width: 168px; text-align: center"><img src="dmitrii.png" style="width: 100px; height: 100px; object-fit: cover; object-position: left" alt=""></td>
-<td style="width: 168px; text-align: center"><img src="kirill.png" style="width: 100px; height: 100px; object-fit: cover;" alt=""></td>
-<td style="width: 168px; text-align: center"><img src="ruslan.png" style="width: 100px; height: 100px; object-fit: cover; object-position: left" alt=""></td>
-</tr>
-<tr>
-<td style="width: 168px; text-align: center"><a href="https://github.com/Lukramancer">Dmitry Olifer</a></td>
-<td style="width: 168px; text-align: center"><a href="https://github.com/Ru1ka">Kirill Surkov</a></td>
-<td style="width: 168px; text-align: center"><a href="https://github.com/BeganovR">Ruslan Beganov</a></td>
-</tr>
-<tr>
-<td style="width: 168px; text-align: center"><i>Infrastructure & DevOps</i></td>
-<td style="width: 168px; text-align: center"><i>Computer Vision <br /> Engineer</i></td>
-<td style="width: 168px; text-align: center"><i>ML Forecasting <br /> Engineer</i></td>
-</tr>
-</table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="dmitrii.png" width="100" height="100" alt="Dmitrii Olifer" />
+      <br />
+      <a href="https://github.com/Lukramancer"><b>Dmitrii Olifer</b></a>
+      <br />
+      <sub><i>Infrastructure & DevOps</i></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="kirill.png" width="100" height="100" alt="Kirill Surkov" />
+      <br />
+      <a href="https://github.com/Ru1ka"><b>Kirill Surkov</b></a>
+      <br />
+      <sub><i>Computer Vision Engineer</i></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="ruslan.png" width="100" height="100" alt="Ruslan Beganov" />
+      <br />
+      <a href="https://github.com/BeganovR"><b>Ruslan Beganov</b></a>
+      <br />
+      <sub><i>ML Forecasting Engineer</i></sub>
+    </td>
+  </tr>
 
-<table>
-<tr>
-<td style="width: 168px; text-align: center"><img src="mikhail.png" style="width: 100px; height: 100px; object-fit: cover; object-position: left" alt=""></td>
-<td style="width: 168px; text-align: center"><img src="ilya-r.png" style="width: 100px; height: 100px; object-fit: cover;" alt=""></td>
-<td style="width: 168px; text-align: center"><img src="ilya-k.png" style="width: 100px; height: 100px; object-fit: cover; object-position: left" alt=""></td>
-</tr>
-<tr>
-<td style="width: 168px; text-align: center"><a href="https://github.com/666mxvbee">Mikhail Neganov</a></td>
-<td style="width: 168px; text-align: center"><a href="https://github.com/MrGoldSky">Ilya Kiselev</a></td>
-<td style="width: 168px; text-align: center"><a href="https://github.com/Mentigen">Ilya Kiselev</a></td>
-</tr>
-<tr>
-<td style="width: 168px; text-align: center"><i>Frontend Engineer <br /> (Admin panel)</i></td>
-<td style="width: 168px; text-align: center"><i>Frontend Engineer <br /> (Web Map)</i></td>
-<td style="width: 168px; text-align: center"><i>Mobile Engineer</i></td>
-</tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="mikhail.png" width="100" height="100" alt="Mikhail Neganov" />
+      <br />
+      <a href="https://github.com/666mxvbee"><b>Mikhail Neganov</b></a>
+      <br />
+      <sub><i>Frontend Engineer<br />(Admin Panel)</i></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="ilya-r.png" width="100" height="100" alt="Ilya Rosseev" />
+      <br />
+      <a href="https://github.com/MrGoldSky"><b>Ilya Rosseev</b></a>
+      <br />
+      <sub><i>Frontend Engineer<br />(Web Map)</i></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="ilya-k.png" width="100" height="100" alt="Ilya Kiselev" />
+      <br />
+      <a href="https://github.com/Mentigen"><b>Ilya Kiselev</b></a>
+      <br />
+      <sub><i>Mobile Engineer</i><br /></sub>
+    </td>
+  </tr>
 </table>
 
 ---
