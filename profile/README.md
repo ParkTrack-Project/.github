@@ -13,8 +13,6 @@
 [![Routing](https://img.shields.io/badge/routing-smart%20parking%20selection-111827?style=flat)](#about-parktrack)
 [![Urban Mobility](https://img.shields.io/badge/urban%20mobility-smart%20cities-111827?style=flat)](#about-parktrack)
 
----
-
 ## About ParkTrack
 
 **ParkTrack** is an urban parking monitoring platform powered by computer vision, real-time occupancy analytics and machine learning.
@@ -22,8 +20,6 @@
 The system detects vehicles on city camera feeds, displays current parking availability, forecasts parking occupancy and helps drivers choose the most suitable parking area near their destination. ParkTrack also supports route building, allowing users to navigate directly to the selected parking location.
 
 The project is built as an ecosystem of connected services: a data-processing API with external integrations, an admin panel for partners and data-source management, a vehicle detector with a parking occupancy analyzer, an ML-based occupancy prediction service, a mobile application and a web map for displaying available parking spaces.
-
----
 
 ## Links
 
@@ -33,15 +29,11 @@ The project is built as an ecosystem of connected services: a data-processing AP
 - **Documentation:** [docs.parktrack.live](https://docs.parktrack.live)
 - **Swagger UI:** [swagger.parktrack.live](https://swagger.parktrack.live)
 
----
-
 ## Project Presentation
 
 This presentation was used to pitch **ParkTrack** on **December 25**. It includes the core product idea, system architecture, technical approach and the most important highlights of the project.
 
 - **[ParkTrack Presentation](https://docs.google.com/presentation/d/1XaHSjsquaCjgxFFsKr2gTSaupm3Tv8n4eijxaQWxiVo/edit?usp=sharing)**
-
----
 
 ## Repositories
 
@@ -89,8 +81,6 @@ This presentation was used to pitch **ParkTrack** on **December 25**. It include
 - [**Mobile App** (`mobile-app`)](https://github.com/ParkTrack-Project/mobile-app)  
   End-user mobile application for finding available parking, selecting the best option and navigating to it.
 
----
-
 ## Team
 
 <table>
@@ -100,12 +90,8 @@ This presentation was used to pitch **ParkTrack** on **December 25**. It include
       <br />
       <a href="https://github.com/nawinds"><b>Nikita Aksenov</b></a>
       <br />
-      <a href="https://t.me/nawinds">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="14" height="14" alt="Telegram" />
-        nawinds
-      </a>
-      <br />
       <sub><i>Engineering Lead</i></sub>
+      <br />
     </td>
     <td align="center" valign="top" width="33%">
       <img src="andrey.png" width="100" height="100" alt="Andrey Kudlis" />
@@ -171,8 +157,6 @@ This presentation was used to pitch **ParkTrack** on **December 25**. It include
     </td>
   </tr>
 </table>
-
----
 
 ## Partner with ParkTrack
 
