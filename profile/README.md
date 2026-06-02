@@ -183,34 +183,55 @@ By joining ParkTrack, partners can become part of a smart-city initiative that m
 For local businesses, cafes, restaurants and venues, partnership may provide additional value:
 
 * **More visibility on the ParkTrack map**
+  
   Parking areas without reliable real-time data are treated conservatively. Once connected to ParkTrack, available spaces near your location can become visible to users, making it easier for them to choose your area as a destination.
 
+
 * **Free promotion inside the product**
+
   We can highlight your venue on the map, display it near available parking areas and show messages such as "parking available near [venue name]".
 
+
 * **Targeted offers for drivers**
+
   Partners may run contextual promotions, for example: "Free parking nearby + 10% off coffee with promo code PARKTRACK". Such offers can be configured to appear selectively rather than every time.
 
+
 * **Guest parking visibility**
+
   If applicable, ParkTrack can mark certain parking areas as available for guests of a venue.
 
+
 * **Analytics and forecasting**
+
   Partners can receive insights into parking occupancy patterns, including days and hours with the highest demand.
 
+
 * **Modern smart-city image**
+
   Participation in ParkTrack positions your business as a technology-friendly and socially useful urban partner.
 
+
 * **PR opportunities**
+
   We can mention partners in project updates, social media or city-focused publications. Partners can also use the collaboration in their own communications: "Parking near us is now easier with ParkTrack."
 
+
 * **Trial period**
+
   We can start with a short 2-3 week pilot. If the partnership does not work for you, we can disable the integration.
 
+
 * **Free access to the service**
+
   Early partners receive lifetime free access to ParkTrack.
 
+
 * **Influence on the product**
+
   Partners can participate in shaping how parking data is displayed and suggest features that would make the service more useful for real businesses and drivers.
 
+
 * **Early-partner benefits**
+
   First-stage partners may receive better long-term conditions, including priority placement or local exclusivity where appropriate.
