@@ -39,9 +39,12 @@ Currently, our app is only made available on Android:
 
 ## Project Presentation
 
-This presentation was used to pitch **ParkTrack** on **December 25**. It includes the core product idea, system architecture, technical approach and the most important highlights of the project.
+The slides below were used to pitch **ParkTrack** on different stages of its development featuring the most important highlights of what we have done by that time. They include core product idea, system architecture, technical approach and lots of screenshots. Every slide is accompanied with presenter notes making them self-explanatory.
 
-- **[ParkTrack Presentation](https://docs.google.com/presentation/d/1XaHSjsquaCjgxFFsKr2gTSaupm3Tv8n4eijxaQWxiVo/edit?usp=sharing)**
+- **[June 8 pitch](https://docs.google.com/presentation/d/16XfuFKItxvor7S4tMneLrKO4-sTMawZru6Ak1Sd-BrY/edit?usp=sharing)**
+  - Occupancy predictions, mobile app, admin panel for partners, new Yandex map and parking lots around whole city center
+- **[December 25 pitch](https://docs.google.com/presentation/d/1XaHSjsquaCjgxFFsKr2gTSaupm3Tv8n4eijxaQWxiVo/edit?usp=sharing)**
+  - Basic map, car detector & occupancy service, web-labeler for admins, Grafana metrics
 
 ## Repositories
 
