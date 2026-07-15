@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="ParkTrack banner" width="100%" />
+  <img src="./parktrack-banner.webp" alt="ParkTrack banner" width="100%" />
 </p>
 
 [![Website](https://img.shields.io/badge/website-parktrack.live-0A7F3F?style=flat)](https://parktrack.live)
@@ -34,7 +34,7 @@ The project is built as an ecosystem of connected services: a data-processing AP
 Currently, our app is only made available on Android:
 
 <a href="https://play.google.com/store/apps/details?id=com.parktrack.mobile">
-<img src="google-play.png" alt="Get it on GooglePlay" width="150">
+<img src="google-play.webp" alt="Get it on GooglePlay" width="150">
 </a>
 
 ## Project Presentation
@@ -97,7 +97,7 @@ The slides below were used to pitch **ParkTrack** on different stages of its dev
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src="nikita.png" width="100" height="100" alt="Nikita Aksenov" />
+      <img src="nikita.webp" width="100" height="100" alt="Nikita Aksenov" />
       <br />
       <a href="https://github.com/nawinds"><b>Nikita Aksenov</b></a>
       <br />
@@ -105,14 +105,14 @@ The slides below were used to pitch **ParkTrack** on different stages of its dev
       <br />
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="andrey.png" width="100" height="100" alt="Andrey Kudlis" />
+      <img src="andrey.webp" width="100" height="100" alt="Andrey Kudlis" />
       <br />
       <b>Andrey Kudlis</b>
       <br />
       <sub><i>Partnerships & Growth	</i></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="egor.png" width="100" height="100" alt="Egor Stolbov" />
+      <img src="egor.webp" width="100" height="100" alt="Egor Stolbov" />
       <br />
       <a href="https://github.com/Gogobobo11"><b>Egor Stolbov</b></a>
       <br />
@@ -122,21 +122,21 @@ The slides below were used to pitch **ParkTrack** on different stages of its dev
 
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src="dmitrii.png" width="100" height="100" alt="Dmitrii Olifer" />
+      <img src="dmitrii.webp" width="100" height="100" alt="Dmitrii Olifer" />
       <br />
       <a href="https://github.com/Lukramancer"><b>Dmitrii Olifer</b></a>
       <br />
       <sub><i>Infrastructure & DevOps</i></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="kirill.png" width="100" height="100" alt="Kirill Surkov" />
+      <img src="kirill.webp" width="100" height="100" alt="Kirill Surkov" />
       <br />
       <a href="https://github.com/Ru1ka"><b>Kirill Surkov</b></a>
       <br />
       <sub><i>Computer Vision Engineer</i></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="ruslan.png" width="100" height="100" alt="Ruslan Beganov" />
+      <img src="ruslan.webp" width="100" height="100" alt="Ruslan Beganov" />
       <br />
       <a href="https://github.com/BeganovR"><b>Ruslan Beganov</b></a>
       <br />
@@ -146,21 +146,21 @@ The slides below were used to pitch **ParkTrack** on different stages of its dev
 
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src="mikhail.png" width="100" height="100" alt="Mikhail Neganov" />
+      <img src="mikhail.webp" width="100" height="100" alt="Mikhail Neganov" />
       <br />
       <a href="https://github.com/666mxvbee"><b>Mikhail Neganov</b></a>
       <br />
       <sub><i>Frontend Engineer<br />(Admin Panel)</i></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="ilya-r.png" width="100" height="100" alt="Ilya Rosseev" />
+      <img src="ilya-r.webp" width="100" height="100" alt="Ilya Rosseev" />
       <br />
       <a href="https://github.com/MrGoldSky"><b>Ilya Rosseev</b></a>
       <br />
       <sub><i>Frontend Engineer<br />(Web Map)</i></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="ilya-k.png" width="100" height="100" alt="Ilya Kiselev" />
+      <img src="ilya-k.webp" width="100" height="100" alt="Ilya Kiselev" />
       <br />
       <a href="https://github.com/Mentigen"><b>Ilya Kiselev</b></a>
       <br />
