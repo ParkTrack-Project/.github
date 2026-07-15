@@ -29,6 +29,14 @@ The project is built as an ecosystem of connected services: a data-processing AP
 - **Documentation:** [docs.parktrack.live](https://docs.parktrack.live)
 - **Swagger UI:** [swagger.parktrack.live](https://swagger.parktrack.live)
 
+## Mobile app
+
+Currently, our app is only made available on Android:
+
+<a href="https://play.google.com/store/apps/details?id=com.parktrack.mobile">
+<img src="google-play.png" alt="Get it on GooglePlay" width="150">
+</a>
+
 ## Project Presentation
 
 This presentation was used to pitch **ParkTrack** on **December 25**. It includes the core product idea, system architecture, technical approach and the most important highlights of the project.
